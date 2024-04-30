@@ -26,3 +26,13 @@ Home page:
 Payment Page:
 
 ![Screenshot 2024-04-30 123654](https://github.com/Rushikeshthokale/PetStore/assets/87907210/e89a9ef4-44ef-425f-877e-20cedfc9f04b)
+
+Pets ordered by price Low to high:
+
+![Screenshot 2024-04-30 123812](https://github.com/Rushikeshthokale/PetStore/assets/87907210/89408612-7707-4bed-bd9b-300a04b40002)
+
+Pets filtered by Price range:
+![Screenshot 2024-04-30 123925](https://github.com/Rushikeshthokale/PetStore/assets/87907210/40d42661-3362-44ed-a957-91a52b04364e)
+
+Pets filtered by Type:
+![Screenshot 2024-04-30 124023](https://github.com/Rushikeshthokale/PetStore/assets/87907210/e5136e78-ed0d-422c-a7a9-0f6079fc7e5f)
