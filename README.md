@@ -38,4 +38,5 @@ Pets filtered by Type:
 ![Screenshot 2024-04-30 124023](https://github.com/Rushikeshthokale/PetStore/assets/87907210/e5136e78-ed0d-422c-a7a9-0f6079fc7e5f)
 
 Order placed mail received by User:
+
 ![Screenshot 2024-04-30 124436](https://github.com/Rushikeshthokale/PetStore/assets/87907210/376223e4-71ef-4760-a30a-3c479fc5ad4d)
